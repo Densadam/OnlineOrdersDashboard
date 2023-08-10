@@ -1,0 +1,15 @@
+Customer_ID,First_Name,Last_Name,Email,Country
+1,John,Doe,john.doe@example.com,United States of America
+2,Jane,Smith,jane.smith@example.com,Canada
+3,Michael,Johnson,michael.j@example.com,United States of America
+4,Emily,Brown,emily.brown@example.com,Canada
+5,William,Davis,william.d@example.com,United Kingdom
+6,Olivia,Miller,olivia.m@example.com,United States of America
+7,James,Wilson,james.w@example.com,Australia
+8,Ava,Anderson,ava.a@example.com,Canada
+9,Benjamin,Taylor,benjamin.t@example.com,United Kingdom
+10,Mia,Jackson,mia.j@example.com,Australia
+11,Samuel,White,samuel.w@example.com,Australia
+12,Sophia,Harris,sophia.h@example.com,United States of America
+13,Daniel,Thomas,daniel.t@example.com,United States of America
+14,Isabella,Martinez,isabella.m@example.com,Canada

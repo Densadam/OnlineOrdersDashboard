@@ -1,0 +1,16 @@
+Product_ID,Product_Name,Category_ID
+1,Laptop,1
+2,Smartphone,1
+3,Headphones,2
+4,Mouse,2
+5,T-shirt,3
+6,Sofa,4
+7,Novel,5
+8,Shampoo,6
+9,Yoga Mat,7
+10,Board Game,8
+11,Coffee Beans,9
+12,Necklace,10
+13,Laptop Stand,1
+14,Sunglasses,2
+15,Running Shoes,7
